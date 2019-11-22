@@ -1,7 +1,7 @@
 # fcc_state
 Command line program to process  EN.dat extracted from fcc's l_amat.zip
 
-This program makes file fcc_states.tab file that is used with my git branch cqrlog/state.
+This program makes file fcc_states.tab file that is used with my git branch cqrlog/states.
 File is placed to ~/.config/cqrlog/ctyfiles folder and holds callsign=state pairs that are used in 
 WSJT-X CQ-monitor to get up to date US states view.
 
