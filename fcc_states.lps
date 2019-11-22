@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="fcc_states.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="122"/>
+        <CursorPos X="16" Y="130"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="123" Column="28" TopLine="104"/>
+      </Position1>
+      <Position2>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="59" Column="32" TopLine="46"/>
+      </Position2>
+      <Position3>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="65" Column="10" TopLine="53"/>
+      </Position3>
+      <Position4>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="66" Column="45" TopLine="53"/>
+      </Position4>
+      <Position5>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="67" Column="82" TopLine="54"/>
+      </Position5>
+      <Position6>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="75" Column="13" TopLine="62"/>
+      </Position6>
+      <Position7>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="130" Column="5" TopLine="122"/>
+      </Position7>
+      <Position8>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="75" Column="3" TopLine="59"/>
+      </Position8>
+      <Position9>
+        <Filename Value="fcc_states.pas"/>
+        <Caret Line="81" TopLine="68"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
